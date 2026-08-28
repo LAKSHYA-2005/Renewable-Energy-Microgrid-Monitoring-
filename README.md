@@ -169,7 +169,7 @@ Both simulations independently push structured JSON to the backend — one over 
 
 ---
 
-## 9. Possible Next Steps
+## 10. Possible Next Steps
 
 - Replace the hand-rolled isolation-forest stand-in with an actually trained isolation forest (or another lightweight unsupervised model) for a fairer comparison against the MLP.
 - Add an external notification channel (SMS/push) for sustained faults instead of dashboard-only alerts.
