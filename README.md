@@ -169,14 +169,14 @@ Both simulations independently push structured JSON to the backend — one over 
 
 ---
 
-## 10. Possible Next Steps
+## 9. Possible Next Steps
 
 - Replace the hand-rolled isolation-forest stand-in with an actually trained isolation forest (or another lightweight unsupervised model) for a fairer comparison against the MLP.
 - Add an external notification channel (SMS/push) for sustained faults instead of dashboard-only alerts.
 - Pin Firebase's TLS certificate instead of using `setInsecure()`.
 - Extend the fault classifier with wind-generation fault classes if a wind input is added later.
 
-## 9. Contributors 
+## 10. Contributors 
 
   Lakshya -: https://github.com/LAKSHYA-2005   
   hardware ARCHETECTURE , Design And Development 
